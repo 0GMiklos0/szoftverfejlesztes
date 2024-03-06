@@ -1,0 +1,4 @@
+tag, címke
+light weight, annotated
+light weight egy egyszerű jelölés
+annotated egy teljes értékű objektum

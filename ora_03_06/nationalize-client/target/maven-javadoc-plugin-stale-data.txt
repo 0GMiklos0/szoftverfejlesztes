@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'C:/Users/student/.m2/repository/io/github/openfeign/feign-gson/13.2.1/feign-gson-13.2.1.jar;C:/Users/student/.m2/repository/io/github/openfeign/feign-core/13.2.1/feign-core-13.2.1.jar;C:/Users/student/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/student/Desktop/ora_03_06/nationalize-client/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/student/Desktop/ora_03_06/nationalize-client/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'nationalize-client 1.0 API'
+-use
+-version
+-windowtitle
+'nationalize-client 1.0 API'
+nationalize
+C:\Users\student\.m2\repository\io\github\openfeign\feign-gson\13.2.1\feign-gson-13.2.1.jar = 1708436263114
+C:\Users\student\.m2\repository\io\github\openfeign\feign-core\13.2.1\feign-core-13.2.1.jar = 1708436263194
+C:\Users\student\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1708436263182
+C:\Users\student\Desktop\ora_03_06\nationalize-client\src\main\java = 1709723438885
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\allclasses-index.html = 1709725936445
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\allpackages-index.html = 1709725936447
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\copy.svg = 1709725936475
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\element-list = 1709725936384
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\help-doc.html = 1709725936471
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\index-all.html = 1709725936463
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\index.html = 1709725936467
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\link.svg = 1709725936476
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\member-search-index.js = 1709725936451
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\module-search-index.js = 1709725936448
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\overview-tree.html = 1709725936430
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\package-search-index.js = 1709725936449
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\script.js = 1709725936474
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\search-page.js = 1709725936480
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\search.html = 1709725936465
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\search.js = 1709725936478
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\stylesheet.css = 1709725936473
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\tag-search-index.js = 1709725936452
+C:\Users\student\Desktop\ora_03_06\nationalize-client\target\site\apidocs\type-search-index.js = 1709725936450
